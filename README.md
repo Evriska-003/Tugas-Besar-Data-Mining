@@ -4,6 +4,6 @@
   <li>Ayusda Renjani - 3311901019</li>
   <li>Gabriella Joice Sitompul - 3311901029</li>
   
- <h2> Link Video Presentasi : </h2>
+ <h4> Link Video Presentasi : </h4>
  <p> https://drive.google.com/folderview?id=16kQH00gt5wuryWZLIBh3JOqhlB1UHotT </p>
  </ol> 
